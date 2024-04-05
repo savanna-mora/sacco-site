@@ -1,0 +1,23 @@
+footer{
+    background-color: slateblue;
+    
+}
+.mwaliko{
+
+    background-color: slateblue;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.robert{
+    background-color: slateblue;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.maghanga{
+    display: flex;
+    justify-content: space-around;
+}

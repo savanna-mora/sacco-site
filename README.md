@@ -5,7 +5,7 @@ Clone the repository to your local machine using VS code
 
 ### Create a new branch with your name:
 
-`git checkout -b branchname`
+`git checkout g
 
 ### Work on your part
 Write your code below the commented section

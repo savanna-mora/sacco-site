@@ -1,0 +1,23 @@
+body{
+    background-color: darkgray;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.paragraph{
+    color: blueviolet;
+    font-family: sans-serif;
+    font-size: x-large;  
+}
+.image{
+    display: block;
+    border-radius: 5px;
+    display: flex;
+    gap: 50px;
+}
+.image img{
+    width: 300px;
+    height: 200px;
+}

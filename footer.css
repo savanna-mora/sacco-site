@@ -1,0 +1,58 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333; /* Darker background color */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 40px 0; /* Increased padding */
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Allow content to wrap on smaller screens */
+}
+
+.quick-navigation,
+.quick-reach-out {
+    flex: 1;
+    margin: 0 20px; /* Added margin for better spacing */
+}
+
+.quick-navigation h2,
+.quick-reach-out h2 {
+    margin-top: 0;
+    color: #ffc107; /* Yellow heading color */
+    font-size: 20px; /* Increased font size */
+}
+
+.quick-navigation ul,
+.quick-reach-out ul {
+    list-style-type: none; /* Remove default list styles */
+    padding: 0;
+}
+
+.quick-navigation ul li,
+.quick-reach-out ul li {
+    margin-bottom: 10px; /* Added spacing between list items */
+}
+
+.quick-navigation a,
+.quick-reach-out li {
+    color: #fff; /* White link color */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 16px; /* Adjusted font size */
+}
+
+.quick-navigation a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.quick-reach-out li {
+    font-size: 18px; /* Adjusted font size */
+}
